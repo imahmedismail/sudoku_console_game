@@ -1,0 +1,6 @@
+﻿  Sudokowithgui.cpp
+f:\vc projects\lab project sudoko\sudoku with gui\sudoko with gui\sudoko with gui\sudokowithgui.cpp(422): warning C4101: 'x': unreferenced local variable
+f:\vc projects\lab project sudoko\sudoku with gui\sudoko with gui\sudoko with gui\sudokowithgui.cpp(926): warning C4101: 'result': unreferenced local variable
+f:\vc projects\lab project sudoko\sudoku with gui\sudoko with gui\sudoko with gui\sudokowithgui.cpp(936): warning C4101: 'result': unreferenced local variable
+  Sudoko with GUI.vcxproj -> F:\VC Projects\Lab Project Sudoko\sudoku with gui\Sudoko with GUI\Debug\Sudoko with GUI.exe
+  Sudoko with GUI.vcxproj -> F:\VC Projects\Lab Project Sudoko\sudoku with gui\Sudoko with GUI\Debug\Sudoko with GUI.pdb (Partial PDB)
